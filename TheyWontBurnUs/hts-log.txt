@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Feb 2025 12:43:44 at https://web.archive.org/web/20241230193547/https://www.cdc.gov/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20241230193547/https://www.cdc.gov/ -O1 "C:\My Web Sites\TheyWontBurnUs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/spanish/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/spanish/ to https://web.archive.org/web/20241230175550/https://www.cdc.gov/Spanish/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/ to https://web.archive.org/web/20241229164947/https://www.cdc.gov/about/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/clean-hands/data-research/facts-stats/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/clean-hands/data-research/facts-stats/ to https://web.archive.org/web/20250107145116/https://www.cdc.gov/clean-hands/data-research/facts-stats/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/dengue/prevention/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/dengue/prevention/ to https://web.archive.org/web/20241223073543/https://www.cdc.gov/dengue/prevention/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/common-cold/about/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/common-cold/about/ to https://web.archive.org/web/20250107145000/https://www.cdc.gov/common-cold/about/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/measles/data-research/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/measles/data-research/ to https://web.archive.org/web/20241231134326/https://www.cdc.gov/measles/data-research/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/mpox/outbreaks/2023/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/mpox/outbreaks/2023/ to https://web.archive.org/web/20241224181716/https://www.cdc.gov/mpox/outbreaks/2023/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/media/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/media/ to https://web.archive.org/web/20241228072244/https://www.cdc.gov/media
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/organization/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/organization/ to https://web.archive.org/web/20241230041416/https://www.cdc.gov/about/organization/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/leadership/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/about/leadership/ to https://web.archive.org/web/20250103165944/https://www.cdc.gov/about/leadership/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/labs/strong-lab-safety/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/labs/strong-lab-safety/ to https://web.archive.org/web/20250107145022/https://www.cdc.gov/labs/strong-lab-safety/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/budget/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/budget/ to https://web.archive.org/web/20241231031835/http://www.cdc.gov/budget
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/museum/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/museum/ to https://web.archive.org/web/20250107144930/https://www.cdc.gov/museum/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/foia/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/foia/ to https://web.archive.org/web/20241230041237/https://www.cdc.gov/foia/
+12:45:22	Warning: 	FOUND for https://web.archive.org/web/20241230193547/https://www.cdc.gov/oeeowe/no-fear-act/
+12:45:22	Warning: 	File has moved from https://web.archive.org/web/20241230193547/https://www.cdc.gov/oeeowe/no-fear-act/ to https://web.archive.org/web/20241230041328/https://www.cdc.gov/oeeowe/no-fear-act/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 38 seconds : 54 links scanned, 38 files written (2460271 bytes overall) [1500800 bytes received at 15314 bytes/sec], 1733472 bytes transferred using HTTP compression in 19 files, ratio 28%, 26.3 requests per connection
+(No errors, 30 warnings, 0 messages)
